@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1417369218 source:d:\programming\books\data structure and algorithm analysis in c++\project3.2\main.cpp
+	"AVLTree.h"
+	"HuffmanTree.h"
+	<fstream>
+
+1417343834 d:\programming\books\data structure and algorithm analysis in c++\project3.2\avltree.h
+	"Word.h"
+
+1417337128 d:\programming\books\data structure and algorithm analysis in c++\project3.2\word.h
+	<iostream>
+	<cstring>
+
+1417368873 d:\programming\books\data structure and algorithm analysis in c++\project3.2\huffmantree.h
+	"Alphabet.h"
+
+1417369167 d:\programming\books\data structure and algorithm analysis in c++\project3.2\alphabet.h
+	<iostream>
+	<cstring>
+
+1417450199 source:d:\programming\books\data structure and algorithm analysis in c++\project3.2(new)\main.cpp
+	"AVLTree.h"
+	"HuffmanTree.h"
+	<fstream>
+
+1418132046 d:\programming\books\data structure and algorithm analysis in c++\project3.2(new)\avltree.h
+	"Word.h"
+
+1417450199 d:\programming\books\data structure and algorithm analysis in c++\project3.2(new)\word.h
+	<iostream>
+	<cstring>
+
+1417368873 d:\programming\books\data structure and algorithm analysis in c++\project3.2(new)\huffmantree.h
+	"Alphabet.h"
+
+1417450199 d:\programming\books\data structure and algorithm analysis in c++\project3.2(new)\alphabet.h
+	<iostream>
+	<cstring>
+
